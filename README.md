@@ -1,3 +1,11 @@
+# Instagram Clone
+
+### Features
+- Separate user authentication
+- User can post comments
+- User can upload a photo from local drive
+- An elegant UI
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
